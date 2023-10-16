@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="tingky">Tingky</string>
+    <string name="wingky">Wingky</string>
+    <string name="dipsy">Dipsy</string>
+    <string name="lala">Lala</string>
+    <string name="pooh">Pooh</string>
+    <string name="sepooh">Sepooh</string>
+    <string name="tiger">Tiger</string>
+    <string name="piglet">Piglet</string>
+    <string name="rabbit">Rabbit</string>
+</resources>
